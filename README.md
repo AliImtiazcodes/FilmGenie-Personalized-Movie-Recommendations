@@ -100,7 +100,7 @@ Welcome to FilmGenie
 
 Enter your age: 21
 Select your gender (M/F): M
-Choose your region: Asia
+Choose your region: Hollywood
 Select your preferred genre: Action
 
 Recommended Movies:
